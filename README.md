@@ -4,3 +4,6 @@
 
 ### Day 1 : Weather App (21 Apr 2024)
 - Open Weather Map API
+
+### Day 2 : To Do List App (22 Apr 2024)
+- Local Storage
