@@ -7,3 +7,6 @@
 
 ### Day 2 : To Do List App (22 Apr 2024)
 - Local Storage
+
+### Day 3 : Quiz App (23 Apr 2024)
+- Button Dataset
