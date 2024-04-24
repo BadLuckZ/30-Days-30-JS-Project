@@ -10,3 +10,6 @@
 
 ### Day 3 : Quiz App (23 Apr 2024)
 - Button Dataset
+
+### Day 4 : Password Generator App (24 Apr 2024)
+- document.execCommand();
