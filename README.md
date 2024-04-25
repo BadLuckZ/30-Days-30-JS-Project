@@ -18,3 +18,6 @@
 - contenteditable attribute
 - Local Storage
 - document.execCommand();
+
+### Day 6 : Age Calculator App (26 Apr 2024)
+- Date Object
