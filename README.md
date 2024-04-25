@@ -13,3 +13,8 @@
 
 ### Day 4 : Password Generator App (24 Apr 2024)
 - document.execCommand();
+
+### Day 5 : Notes App (25 Apr 2024)
+- contenteditable attribute
+- Local Storage
+- document.execCommand();
