@@ -21,3 +21,8 @@
 
 ### Day 6 : Age Calculator App (26 Apr 2024)
 - Date Object
+
+### Day 7 : Quote Generator App (27 Apr 2024)
+- Quote API
+- nth-child()
+- Button connecting to Twitter(X)
