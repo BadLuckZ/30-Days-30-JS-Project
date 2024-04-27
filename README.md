@@ -26,3 +26,7 @@
 - Quote API
 - nth-child()
 - Button connecting to Twitter(X)
+
+### Day 8 : QR Code Generator (28 Apr 2024)
+- QR Code API
+- KeyFrames
