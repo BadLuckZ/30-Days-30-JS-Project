@@ -30,3 +30,8 @@
 ### Day 8 : QR Code Generator (28 Apr 2024)
 - QR Code API
 - KeyFrames
+
+### Day 9 : Toast Notification (29 Apr 2024)
+- Font Awesome
+- setTimeout
+- KeyFrames
