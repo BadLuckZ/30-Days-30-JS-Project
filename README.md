@@ -35,3 +35,7 @@
 - Font Awesome
 - setTimeout
 - KeyFrames
+
+### Day 10 : A Music Player (30 Apr 2024)
+- audio tag
+- slider, -webkit-slider-thumb
