@@ -42,3 +42,7 @@
 
 ### Day 11 : A Stopwatch (1 May 2024)
 - clearInterval()
+
+### Day 12 : A Calculator (2 May 2024)
+- onclick without using function()
+- eval()
