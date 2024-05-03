@@ -46,3 +46,5 @@
 ### Day 12 : A Calculator (2 May 2024)
 - onclick without using function()
 - eval()
+
+### Day 13 : A Popup (3 May 2024)
