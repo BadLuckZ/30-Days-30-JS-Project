@@ -48,3 +48,9 @@
 - eval()
 
 ### Day 13 : A Popup (3 May 2024)
+
+### Day 14 : Hide and Show Password (4 May 2024)
+
+### Day 15 : Making a Dark Mode Website (5 May 2024)
+- CSS Variables
+- Local Storage
