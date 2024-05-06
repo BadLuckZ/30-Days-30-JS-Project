@@ -54,3 +54,7 @@
 ### Day 15 : Making a Dark Mode Website (5 May 2024)
 - CSS Variables
 - Local Storage
+
+### Day 16 : Form Validation (6 May 2024)
+- onkeyup
+- match()
