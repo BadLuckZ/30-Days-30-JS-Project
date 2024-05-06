@@ -12,7 +12,7 @@ function validateName() {
     } 
     if (!name.match(/^[A-Za-z]*\s{1}[A-Za-z][A-Za-z]*$/)) {
         // Pattern to write must be <Name> <Name>
-        nameError.innerHTML = 'Write your Fullname!';
+        nameError.innerHTML = 'Invalid Name!';
         return false;
     }
     nameError.innerHTML = '<i class="fa-solid fa-circle-check"></i>';
