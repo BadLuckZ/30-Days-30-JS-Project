@@ -58,3 +58,7 @@
 ### Day 16 : Form Validation (6 May 2024)
 - onkeyup
 - match()
+
+### Day 17 : Image Gallery (7 May 2024)
+- scrollbar + "wheel" Eventlistener
+- filter
