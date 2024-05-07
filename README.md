@@ -62,3 +62,6 @@
 ### Day 17 : Image Gallery (7 May 2024)
 - scrollbar + "wheel" Eventlistener
 - filter
+
+### Day 18 : Email Subscription (8 May 2024)
+- Connecting to Google Sheet 
