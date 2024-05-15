@@ -65,3 +65,5 @@
 
 ### Day 18 : Email Subscription (8 May 2024)
 - Connecting to Google Sheet 
+
+### Day 19 : Password Strength (15 May 2024)
