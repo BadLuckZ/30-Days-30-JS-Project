@@ -67,3 +67,6 @@
 - Connecting to Google Sheet 
 
 ### Day 19 : Password Strength (15 May 2024)
+
+### Day 20 : Text to Voice (16 May 2024)
+- SpeechSynthesisUtterance
