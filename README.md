@@ -70,3 +70,5 @@
 
 ### Day 20 : Text to Voice (16 May 2024)
 - SpeechSynthesisUtterance
+
+### Day 21 : Coming Soon Page (17 May 2024)
