@@ -75,3 +75,5 @@
 
 ### Day 22 : Image Background Effect Change (18 May 2024)
 - onmousemove
+
+### Day 23 : Mini Calendar (19 May 2024)
