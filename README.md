@@ -72,3 +72,6 @@
 - SpeechSynthesisUtterance
 
 ### Day 21 : Coming Soon Page (17 May 2024)
+
+### Day 22 : Image Background Effect Change (18 May 2024)
+- onmousemove
