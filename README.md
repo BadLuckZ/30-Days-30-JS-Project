@@ -77,3 +77,5 @@
 - onmousemove
 
 ### Day 23 : Mini Calendar (19 May 2024)
+
+### Day 24 : Select Menu (20 May 2024)
