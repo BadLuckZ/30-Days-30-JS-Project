@@ -82,3 +82,5 @@
 
 ### Day 25 : Circular Progress Bar (21 May 2024)
 - stroke
+
+### Day 26 : Product Page Design (22 May 2024)
