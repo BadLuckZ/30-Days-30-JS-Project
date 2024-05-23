@@ -87,3 +87,6 @@
 
 ### Day 27 : Cryptocurrency Website (23 May 2024)
 - Crypto API
+
+### Day 28 : Digital Clock (24 May 2024)
+- blur()
