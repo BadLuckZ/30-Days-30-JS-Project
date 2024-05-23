@@ -84,3 +84,6 @@
 - stroke
 
 ### Day 26 : Product Page Design (22 May 2024)
+
+### Day 27 : Cryptocurrency Website (23 May 2024)
+- Crypto API
