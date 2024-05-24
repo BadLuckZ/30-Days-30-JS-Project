@@ -90,3 +90,7 @@
 
 ### Day 28 : Digital Clock (24 May 2024)
 - blur()
+
+### Day 29 : Drag and Drop (25 May 2024)
+- draggable
+- "dragstart", "dragover", "drop"
