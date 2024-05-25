@@ -94,3 +94,6 @@
 ### Day 29 : Drag and Drop (25 May 2024)
 - draggable
 - "dragstart", "dragover", "drop"
+
+### Day 30 : Image Search Engine (26 May 2024)
+- Unsplash API
